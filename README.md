@@ -14,16 +14,16 @@ Construyo sistemas escalables, APIs robustas y apps multiplataforma, aplicando C
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🔭 Actualmente desarrollo backend con **NestJS** y frontend con **ReactJS**, aplicando Clean Architecture y DDD.
-- 🔐 Enfocado en seguridad: autenticación MFA, RBAC, Helmet y rate limiting con Throttler.
-- 📄 Documentación de APIs estandarizada con Swagger.
-- 🌎 Experiencia construyendo apps multiplataforma e integraciones con pasarelas de pago, Firebase y APIs de terceros.
+- Actualmente desarrollo backend con **NestJS** y frontend con **ReactJS**, aplicando Clean Architecture y DDD.
+- Enfocado en seguridad: autenticación MFA, RBAC, Helmet y rate limiting con Throttler.
+- Documentación de APIs estandarizada con Swagger.
+- Experiencia construyendo apps multiplataforma e integraciones con pasarelas de pago, Firebase y APIs de terceros.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 **Backend**
 
@@ -59,7 +59,7 @@ Construyo sistemas escalables, APIs robustas y apps multiplataforma, aplicando C
 
 ---
 
-### 💼 Experiencia reciente
+### Experiencia reciente
 
 | Empresa | Rol | Periodo |
 |---|---|---|
@@ -69,7 +69,7 @@ Construyo sistemas escalables, APIs robustas y apps multiplataforma, aplicando C
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <div align="center">
 
@@ -82,6 +82,6 @@ Construyo sistemas escalables, APIs robustas y apps multiplataforma, aplicando C
 
 <div align="center">
 
-📫 **Contáctame:** [Email](mailto:amartinezdev@icloud.com) · [WhatsApp](https://wa.me/50761176215) · [LinkedIn](https://www.linkedin.com/in/angel-efrain-martinez1/)
+**Contáctame:** [Email](mailto:amartinezdev@icloud.com) · [WhatsApp](https://wa.me/50761176215) · [LinkedIn](https://www.linkedin.com/in/angel-efrain-martinez1/)
 
 </div>
