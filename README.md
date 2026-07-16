@@ -16,8 +16,7 @@ Construyo sistemas escalables, APIs robustas y apps multiplataforma, aplicando C
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente en **Roostack**, desarrollando backend con **NestJS** y frontend con **Flutter**, aplicando Clean Architecture y DDD.
-- 🌱 Aprendiendo **React** e **inglés**, con planes de estudio estructurados bajo el principio de Pareto (80/20).
+- 🔭 Actualmente desarrollo backend con **NestJS** y frontend con **ReactJS**, aplicando Clean Architecture y DDD.
 - 🔐 Enfocado en seguridad: autenticación MFA, RBAC, Helmet y rate limiting con Throttler.
 - 📄 Documentación de APIs estandarizada con Swagger.
 - 🌎 Experiencia construyendo apps multiplataforma e integraciones con pasarelas de pago, Firebase y APIs de terceros.
